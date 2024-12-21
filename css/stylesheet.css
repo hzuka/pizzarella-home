@@ -1,0 +1,223 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    margin-left: -200px;
+    font-size: large;
+
+}
+
+.navbar-nav {
+    text-align: center;
+}
+
+.header {
+    text-align: right;
+
+
+}
+
+.hero-container {
+
+    height: 700px;
+    width: 1750px;
+    background-image: url(../images/banner.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.overlay {
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+}
+
+.btn-custom {
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.style {
+    color: green;
+    font-size: 50px;
+}
+
+.styles {
+    color: #ff5733;
+    font-size: 50px;
+}
+
+.product-section {
+    padding: 40px 0;
+    text-align: center;
+}
+
+.carousel-inner img {
+    max-height: 500px;
+
+    object-fit: contain;
+
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+
+    border-radius: 40%;
+
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 5%;
+
+
+}
+
+.btns-custom {
+    margin-left: 800px;
+    margin-top: 20px;
+}
+
+.contact-section {
+    padding: 40px 0;
+    text-align: left;
+}
+
+.main-section {
+    padding: 40px 0;
+    text-align: left;
+}
+
+.product-section {
+    padding: 40px 0;
+    text-align: left;
+
+}
+
+.resource-section {
+    background-color: #e9ecef;
+    text-align: left;
+    padding: 40px 0;
+    font-size: larger;
+}
+
+.resources-text {
+
+    text-align: left;
+
+}
+
+.resources-image {
+    max-width: 700px;
+
+}
+
+.resources-image img {
+    width: 700px;
+
+    height: auto;
+    margin-left: 200px;
+    border-radius: 8px;
+    padding-bottom: 100px;
+}
+
+.btn-custom {
+    background-color: #ff5733;
+    color: white;
+}
+
+.btns-custom {
+    background-color: #ff5733;
+    color: white;
+
+
+
+}
+
+.contact-img {
+    width: 700px;
+
+    height: auto;
+    margin-left: 1300px;
+    margin-top: -500px;
+    border-radius: 8px;
+}
+
+.quiz-container {
+    max-width: 600px;
+    margin-left: 690px;
+    margin-top: -450px;
+    background: #ffffff;
+    padding: 100px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #ff6347;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+.hidden {
+    display: none;
+}
+
+.result img {
+    margin: 10px 0;
+    border-radius: 50%;
+    max-width: 200px;
+}
+
+
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 40px 0;
+}
+
+
+.search-input {
+    width: 150px;
+
+}
+
+.feedback-textarea {
+    width: 200px;
+
+    max-width: 50%;
+
+}
+
+.social-icons {
+    text-align: center;
+    color: white;
+    padding: 20px 0;
+}
+
+.social-icons {
+    color: white;
+    font-size: 24px;
+    margin: 0 15px;
+    transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: #f0f0f0;
+}
